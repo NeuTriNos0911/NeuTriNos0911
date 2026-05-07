@@ -16,6 +16,7 @@ I build AI, embedded systems, and full-stack projects that connect practical int
 
 | Project | What It Shows | Tech |
 | --- | --- | --- |
+| [Bloomberg Market Intelligence Dashboard](https://github.com/NeuTriNos0911/bloomberg-market-intelligence-dashboard) | Live market-intelligence dashboard demo with auto-refreshing ticker data, watchlist search, charts, heatmap, macro calendar, CSV export, and [GitHub Pages demo](https://neutrinos0911.github.io/bloomberg-market-intelligence-dashboard/?v=refresh-1s). | TypeScript, Vite, HTML/CSS, GitHub Pages |
 | [AI Receptionist](https://github.com/NeuTriNos0911/ai-receptionist) | Multi-industry voice receptionist MVP with lead capture and business-profile customization. | Python, React, LiveKit, OpenAI, SQLite |
 | [Fetal ECG Extraction](https://github.com/NeuTriNos0911/ecg_for_fetus) | Pix2Pix GAN approach for separating fetal ECG signals from maternal ECG recordings. | Python, PyTorch, GANs, biomedical signals |
 | [3D Map Navigator](https://github.com/NeuTriNos0911/3D-map-navigator) | Interactive 3D store navigation prototype with category search and GLB model rendering. | HTML, CSS, JavaScript, Three.js |
