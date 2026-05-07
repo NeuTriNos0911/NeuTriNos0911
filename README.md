@@ -1,23 +1,34 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>Machine Learning (ML) projects and exploring Large Language Models (LLMs).<br><br>🤝 I’m looking to collaborate on<br>Web apps that use APIs, especially GitHub API and data visualization projects.<br><br>🧠 I’m looking for help with<br>Optimizing API calls and designing intuitive UI/UX for dashboards.<br><br>🌱 I’m currently learning<br>Advanced React, Tailwind CSS, and GitHub GraphQL API.<br><br>💬 Ask me about<br>Drones, embedded systems (like Arduino, Raspberry Pi, ESP32), or GitHub projects.<br><br>⚡ Fun fact<br>I can explain drone dynamics and BJT amplifier design with equal enthusiasm!
+# Hi, I'm Yash Pandey
 
+I build AI, embedded systems, and full-stack projects that connect practical interfaces with real engineering problems. My work spans voice AI, biomedical signal processing, Verilog design, automation, and interactive web experiences.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashpandey09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpandey0903@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/yashpandey09) | [Email](mailto:yashpandey0903@gmail.com) | [GitHub](https://github.com/NeuTriNos0911)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NeuTriNos0911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NeuTriNos0911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuTriNos0911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I Build
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NeuTriNos0911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- AI agents and voice interfaces for real-world workflows.
+- Deep learning projects for signal processing and healthcare use cases.
+- Digital design projects using Verilog and hardware-oriented thinking.
+- Interactive frontend prototypes with JavaScript, React, and 3D web tooling.
+- Automation scripts for GitHub and developer workflows.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## Featured Projects
 
-[![](https://visitcount.itsvg.in/api?id=NeuTriNos0911&icon=8&color=11)](https://visitcount.itsvg.in)
+| Project | What It Shows | Tech |
+| --- | --- | --- |
+| [AI Receptionist](https://github.com/NeuTriNos0911/ai-receptionist) | Multi-industry voice receptionist MVP with lead capture and business-profile customization. | Python, React, LiveKit, OpenAI, SQLite |
+| [Fetal ECG Extraction](https://github.com/NeuTriNos0911/ecg_for_fetus) | Pix2Pix GAN approach for separating fetal ECG signals from maternal ECG recordings. | Python, PyTorch, GANs, biomedical signals |
+| [3D Map Navigator](https://github.com/NeuTriNos0911/3D-map-navigator) | Interactive 3D store navigation prototype with category search and GLB model rendering. | HTML, CSS, JavaScript, Three.js |
+| [4-Bit ALU in Verilog](https://github.com/NeuTriNos0911/Verilog-4-Bit-ALU-main) | Verilog ALU design with operation-specific testbenches. | Verilog, Icarus Verilog, GTKWave |
+| [Traffic Light Controller](https://github.com/NeuTriNos0911/Traffic-Light-Controller-using-Verilog-main) | FSM-based traffic controller design for a T-junction. | Verilog, digital design, FSMs |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Focus
+
+Python, PyTorch, JavaScript, React, Node.js, Verilog, HTML/CSS, Git, GitHub APIs, Arduino, Raspberry Pi, embedded systems, and AI application development.
+
+## Currently Exploring
+
+- Realtime voice agents and practical AI assistants.
+- Biomedical signal processing with deep learning.
+- Better developer automation and GitHub workflows.
+- Embedded systems, drones, and hardware-connected software.
